@@ -1,4 +1,4 @@
-<h4 align="center"> ⚒️A passionate developer from Mumbai⚒️ </h4>
+<h4 align="center"> ⚒️Developer from Mumbai⚒️ </h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wtfayxn&label=Profile%20views&color=0e75b6&style=flat" alt="wtfayxn" /> </p>
 
@@ -19,6 +19,9 @@
 ![C++](https://img.shields.io/badge/c++-000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=django)
+![MySQL](https://img.shields.io/badge/-MySql-000?style=for-the-badge&logo=mysql)
+![PHP](https://img.shields.io/badge/php-000?style=for-the-badge&logo=php&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
@@ -30,8 +33,7 @@
 ![jQuery](https://img.shields.io/badge/jquery-000.svg?style=for-the-badge&logo=jquery&logoColor=white) 
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
-![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
-![PHP](https://img.shields.io/badge/php-000?style=for-the-badge&logo=php&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/-kotlin-000?style=for-the-badge&logo=kotlin)
 
 ---
 
