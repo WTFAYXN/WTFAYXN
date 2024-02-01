@@ -39,7 +39,6 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wtfayxn&layout=compact)
 
 
 <h3 align="left">Connect with me:</h3>
