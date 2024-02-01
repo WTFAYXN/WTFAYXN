@@ -33,6 +33,7 @@
 
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
+![Gimp](https://img.shields.io/badge/-Gimp-000?style=for-the-badge&logo=gimp)
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/wtfayxn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wtfayxn" /></a></p><br><br>
 
