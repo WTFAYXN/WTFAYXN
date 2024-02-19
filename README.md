@@ -7,8 +7,6 @@
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "20"> Tech Stack
 
 ![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=django)
 ![MySQL](https://img.shields.io/badge/-MySql-000?style=for-the-badge&logo=mysql)
